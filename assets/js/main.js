@@ -290,6 +290,22 @@ shorttopwallCube.position.set(-7, 6, -54);
 longwallCube.position.set(-32, 1, -40);
 rampwallCube.position.set(22, 6, -20);
 
+// Skybox
+loader.load(
+  './assets/models/skybox/perseverance_rover_mars_panorama.glb',
+  function (gltf) {
+    const skybox = gltf.scene;
+    skybox.position.set(-10, -100, -20);
+    skybox.rotation.set(0, 0, 0);
+    skybox.scale.set(400, 400, 400);
+    scene.add(skybox);
+  },
+  undefined,
+  function (error) {
+    console.error('Error loading GLTF model', error);
+  }
+);
+
 function animate() {
 
   animateParticles();
