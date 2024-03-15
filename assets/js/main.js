@@ -320,3 +320,4 @@ animate();
 
 // "Wooden Crate - Wooden Box" (https://skfb.ly/opQpV) by Erdogan Taskurt is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 // "Old rusted Metal Barrel" (https://skfb.ly/o7POF) by Be-Ru is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+// "Perseverance Rover Mars Panorama" (https://skfb.ly/6Zr6P) by erdeminoff is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
